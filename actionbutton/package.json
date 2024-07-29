@@ -4,11 +4,20 @@
   "homePage": "https://github.com/gristlabs/grist-widget",
   "version": "0.0.1",
   "grist": {
-    "name": "Action button",
+    "name": "Pug / Python Widget",
+    "description": "Grist widget to directly develop custom widgets within Grist's UI.",
+    "authors": [
+      {
+        "name": "jperon",
+        "url": "https://github.com/jperon"
+      }
+    ],
+    "lastUpdatedAt": "2024-04-28T00:00:00.000Z",
     "url": "https://gristlabs.github.io/grist-widget/actionbutton/index.html",
     "widgetId": "@gristlabs/widget-actionbutton",
     "published": true,
     "accessLevel": "full",
-    "renderAfterReady": true
+    "renderAfterReady": true,
+    "community": true
   }
 }
