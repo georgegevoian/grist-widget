@@ -8,7 +8,7 @@
       "name": "Calendar",
       "url": "https://gristlabs.github.io/grist-widget/calendar/index.html",
       "widgetId": "@gristlabs/widget-calendar",
-      "published": true,
+      "published": false,
       "accessLevel": "full",
       "renderAfterReady": true,
       "archive": {
