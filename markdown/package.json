@@ -5,6 +5,19 @@
   "version": "0.0.1",
   "grist": {
     "name": "Markdown",
+    "description" "Allows editing and displaying text using Markdown format.",
+    "authors": [
+      {
+        "name": "Grist Labs",
+        "email": "support@getgrist.com",
+        "url": "https://www.getgrist.com/"
+      },
+      {
+        "name": "George Gevoian",
+        "email": "george@getgrist.com",
+        "url": "https://github.com/georgegevoian"
+      }
+    ],
     "url": "https://gristlabs.github.io/grist-widget/markdown",
     "widgetId": "@gristlabs/widget-markdown",
     "published": true,
