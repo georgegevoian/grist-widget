@@ -31,8 +31,8 @@ jobs:
     # on github pages. Also jsdelivr can mirror branches, but not releases.
     - name: Make a release branch that includes manifest.json
       run: |
-          git config user.name "Paul's Grist Bot"
-          git config user.email "<paul+bot@getgrist.com>"
+          git config user.name "George's Grist Bot"
+          git config user.email "<george+bot@getgrist.com>"
           git add -f manifest.json
           git commit -m "add manifest.json" -a
           git push --set-upstream origin HEAD:release -f
