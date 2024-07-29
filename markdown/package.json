@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "grist": {
     "name": "Markdown",
-    "description" "Allows editing and displaying text using Markdown format.",
+    "description": "Allows editing and displaying text using Markdown format.",
     "authors": [
       {
         "name": "Grist Labs",
