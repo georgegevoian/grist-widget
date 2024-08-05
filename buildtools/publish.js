@@ -63,6 +63,7 @@ for (const folder of folders) {
           );
         }
       }
+      console.log(packageFile);
       config.lastUpdatedAt = execSync(`git log -1 --format=%cI ${packageFile}`, {encoding: 'utf8'})
         .trimEnd();
       widgets.push(config);
