@@ -5,6 +5,7 @@
 // or:
 //   node ./buildtools/publish.js manifest.json http://localhost:8585
 
+const {execSync} = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
@@ -62,6 +63,8 @@ for (const folder of folders) {
           );
         }
       }
+      config.lastUpdatedAt = execSync(`git log -1 --format=%cI ${packageFile}`, {encoding: 'utf8'})
+        .trimEnd();
       widgets.push(config);
     }
   }
