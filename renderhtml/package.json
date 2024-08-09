@@ -9,6 +9,14 @@
     "widgetId": "@gristlabs/widget-renderhtml",
     "published": true,
     "accessLevel": "read table",
-    "renderAfterReady": true
+    "renderAfterReady": true,
+    "authors": [
+      {
+        "name": "Grist Labs",
+        "email": "support@getgrist.com",
+        "url": "https://www.getgrist.com/"
+      }
+    ],
+    "description": "View data from a selected record as rendered HTML."
   }
 }

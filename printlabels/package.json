@@ -9,6 +9,14 @@
     "widgetId": "@gristlabs/widget-printlabels",
     "published": true,
     "accessLevel": "read table",
-    "renderAfterReady": true
+    "renderAfterReady": true,
+    "authors": [
+      {
+        "name": "Grist Labs",
+        "email": "support@getgrist.com",
+        "url": "https://www.getgrist.com/"
+      }
+    ],
+    "description": "Customize and print labels directly from a selected Grist table."
   }
 }

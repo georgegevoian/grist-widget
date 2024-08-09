@@ -16,7 +16,15 @@
         "entrypoints": [
           "https://gristlabs.github.io/grist-widget/calendar/i18n/"
         ]
-      }
+      },
+      "authors": [
+        {
+          "name": "Grist Labs",
+          "email": "support@getgrist.com",
+          "url": "https://www.getgrist.com/"
+        }
+      ],
+      "description": "Show records as events in a calendar view. Choose between daily, monthly, or yearly views."
     }
   ]
 }

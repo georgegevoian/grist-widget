@@ -9,6 +9,14 @@
     "widgetId": "@gristlabs/widget-clipboard",
     "published": true,
     "accessLevel": "read table",
-    "renderAfterReady": true
+    "renderAfterReady": true,
+    "authors": [
+      {
+        "name": "Grist Labs",
+        "email": "support@getgrist.com",
+        "url": "https://www.getgrist.com/"
+      }
+    ],
+    "description": "Copy column values from records to your clipboard with a click of a button."
   }
 }

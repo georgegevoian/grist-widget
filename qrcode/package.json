@@ -10,7 +10,15 @@
       "widgetId": "@gristlabs/widget-qrcode",
       "published": true,
       "accessLevel": "read table",
-      "renderAfterReady": true
+      "renderAfterReady": true,
+      "authors": [
+        {
+          "name": "Grist Labs",
+          "email": "support@getgrist.com",
+          "url": "https://www.getgrist.com/"
+        }
+      ],
+      "description": "Generate custom QR codes based on data from a selected record."
     }
   ]
 }

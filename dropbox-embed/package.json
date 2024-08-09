@@ -9,6 +9,14 @@
     "widgetId": "@gristlabs/dropbox-embed",
     "published": true,
     "accessLevel": "read table",
-    "renderAfterReady": true
+    "renderAfterReady": true,
+    "authors": [
+      {
+        "name": "Grist Labs",
+        "email": "support@getgrist.com",
+        "url": "https://www.getgrist.com/"
+      }
+    ],
+    "description": "View and access files from your Dropbox account."
   }
 }

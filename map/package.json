@@ -10,7 +10,15 @@
       "widgetId": "@gristlabs/widget-map#map",
       "published": true,
       "accessLevel": "read table",
-      "renderAfterReady": true
+      "renderAfterReady": true,
+      "authors": [
+        {
+          "name": "Grist Labs",
+          "email": "support@getgrist.com",
+          "url": "https://www.getgrist.com/"
+        }
+      ],
+      "description": "Display locations on a map using either addresses or latitude and longitude coordinates."
     }
   ]
 }
