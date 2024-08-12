@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "View data from a selected record as rendered HTML."
+    "description": "View data from a selected record as rendered HTML.",
+    "isGristLabsMaintained": true
   }
 }

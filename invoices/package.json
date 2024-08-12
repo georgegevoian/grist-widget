@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "Generate printable invoices, with values filled in from the selected record."
+    "description": "Generate printable invoices, with values filled in from the selected record.",
+    "isGristLabsMaintained": true
   }
 }

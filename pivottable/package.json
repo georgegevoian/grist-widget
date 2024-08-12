@@ -12,9 +12,7 @@
     "renderAfterReady": true,
     "authors": [
       {
-        "name": "Grist Labs",
-        "email": "support@getgrist.com",
-        "url": "https://www.getgrist.com/"
+        "name": "jperon"
       }
     ],
     "description": "Build and modify a pivot table from a selected Grist table."

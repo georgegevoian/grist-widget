@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "Show records as flashcards, with a question on one side and an answer on the other."
+    "description": "Show records as flashcards, with a question on one side and an answer on the other.",
+    "isGristLabsMaintained": true
   }
 }

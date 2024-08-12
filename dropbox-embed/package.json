@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "View and access files from your Dropbox account."
+    "description": "View and access files from your Dropbox account.",
+    "isGristLabsMaintained": true
   }
 }

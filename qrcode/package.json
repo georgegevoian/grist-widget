@@ -13,9 +13,7 @@
       "renderAfterReady": true,
       "authors": [
         {
-          "name": "Grist Labs",
-          "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "name": "jperon"
         }
       ],
       "description": "Generate custom QR codes based on data from a selected record."

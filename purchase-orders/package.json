@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "Create printable purchase orders based on data from a selected record."
+    "description": "Create printable purchase orders based on data from a selected record.",
+    "isGristLabsMaintained": true
   }
 }

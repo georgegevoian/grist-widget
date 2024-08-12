@@ -18,7 +18,8 @@
           "url": "https://www.getgrist.com/"
         }
       ],
-      "description": "View the raw representation of the selected record as JSON."
+      "description": "View the raw representation of the selected record as JSON.",
+      "isGristLabsMaintained": true
     },
     {
       "name": "Inspect table",
@@ -34,7 +35,8 @@
           "url": "https://www.getgrist.com/"
         }
       ],
-      "description": "View the raw representation of all the table's records as JSON."
+      "description": "View the raw representation of all the table's records as JSON.",
+      "isGristLabsMaintained": true
     },
     {
       "name": "Inspect options",
@@ -49,7 +51,8 @@
           "url": "https://www.getgrist.com/"
         }
       ],
-      "description": "View the options sent to this custom widget, and send your own custom options, for testing."
+      "description": "View the options sent to this custom widget, and send your own custom options, for testing.",
+      "isGristLabsMaintained": true
     },
     {
       "name": "Inspect Columns",
@@ -70,7 +73,8 @@
           "url": "https://www.getgrist.com/"
         }
       ],
-      "description": "An interactive introduction to the Grist Custom Widget API, with live code examples."
+      "description": "An interactive introduction to the Grist Custom Widget API, with live code examples.",
+      "isGristLabsMaintained": true
     }
   ]
 }

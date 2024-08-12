@@ -18,7 +18,8 @@
           "url": "https://www.getgrist.com/"
         }
       ],
-      "description": "Go beyond Grist charts, with support for additional chart types and layout/styling options. Powered by Plotly Studio."
+      "description": "Go beyond Grist charts, with support for additional chart types and layout/styling options. Powered by Plotly Studio.",
+      "isGristLabsMaintained": true
     }
   ],
   "dependencies": {

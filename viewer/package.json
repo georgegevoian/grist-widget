@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "View images loaded from a URL."
+    "description": "View images loaded from a URL.",
+    "isGristLabsMaintained": true
   }
 }

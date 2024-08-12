@@ -17,7 +17,8 @@
           "url": "https://www.getgrist.com/"
         }
       ],
-      "description": "Run custom Python code in JupyterLite, a version of JupyterLab running entirely in the browser."
+      "description": "Run custom Python code in JupyterLite, a version of JupyterLab running entirely in the browser.",
+      "isGristLabsMaintained": true
     }
   ],
   "dependencies": {

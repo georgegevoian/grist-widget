@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "View and format a record's text using a rich text editor."
+    "description": "View and format a record's text using a rich text editor.",
+    "isGristLabsMaintained": true
   }
 }

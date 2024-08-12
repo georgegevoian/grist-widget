@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "Copy column values from records to your clipboard with a click of a button."
+    "description": "Copy column values from records to your clipboard with a click of a button.",
+    "isGristLabsMaintained": true
   }
 }

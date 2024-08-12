@@ -17,6 +17,7 @@
         "url": "https://www.getgrist.com/"
       }
     ],
-    "description": "Embed videos from YouTube, Vimeo, Facebook Video, Google Drive and more."
+    "description": "Embed videos from YouTube, Vimeo, Facebook Video, Google Drive and more.",
+    "isGristLabsMaintained": true
   }
 }

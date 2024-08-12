@@ -24,7 +24,8 @@
           "url": "https://www.getgrist.com/"
         }
       ],
-      "description": "Show records as events in a calendar view. Choose between daily, monthly, or yearly views."
+      "description": "Show records as events in a calendar view. Choose between daily, monthly, or yearly views.",
+      "isGristLabsMaintained": true
     }
   ]
 }

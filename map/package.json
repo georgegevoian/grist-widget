@@ -18,7 +18,8 @@
           "url": "https://www.getgrist.com/"
         }
       ],
-      "description": "Display locations on a map using either addresses or latitude and longitude coordinates."
+      "description": "Display locations on a map using either addresses or latitude and longitude coordinates.",
+      "isGristLabsMaintained": true
     }
   ]
 }
