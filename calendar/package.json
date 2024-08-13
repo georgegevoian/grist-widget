@@ -21,7 +21,7 @@
         {
           "name": "Grist Labs",
           "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "url": "https://github.com/gristlabs"
         }
       ],
       "description": "Show records as events in a calendar view. Choose between daily, monthly, or yearly views.",

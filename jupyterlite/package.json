@@ -14,7 +14,7 @@
         {
           "name": "Grist Labs",
           "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "url": "https://github.com/gristlabs"
         }
       ],
       "description": "Run custom Python code in JupyterLite, a version of JupyterLab running entirely in the browser.",

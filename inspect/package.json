@@ -15,7 +15,7 @@
         {
           "name": "Grist Labs",
           "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "url": "https://github.com/gristlabs"
         }
       ],
       "description": "View the raw representation of the selected record as JSON.",
@@ -32,7 +32,7 @@
         {
           "name": "Grist Labs",
           "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "url": "https://github.com/gristlabs"
         }
       ],
       "description": "View the raw representation of all the table's records as JSON.",
@@ -48,7 +48,7 @@
         {
           "name": "Grist Labs",
           "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "url": "https://github.com/gristlabs"
         }
       ],
       "description": "View the options sent to this custom widget, and send your own custom options, for testing.",
@@ -70,7 +70,7 @@
         {
           "name": "Grist Labs",
           "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "url": "https://github.com/gristlabs"
         }
       ],
       "description": "An interactive introduction to the Grist Custom Widget API, with live code examples.",

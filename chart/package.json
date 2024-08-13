@@ -15,7 +15,7 @@
         {
           "name": "Grist Labs",
           "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "url": "https://github.com/gristlabs"
         }
       ],
       "description": "Go beyond Grist charts, with support for additional chart types and layout/styling options. Powered by Plotly Studio.",

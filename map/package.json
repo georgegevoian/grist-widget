@@ -15,7 +15,7 @@
         {
           "name": "Grist Labs",
           "email": "support@getgrist.com",
-          "url": "https://www.getgrist.com/"
+          "url": "https://github.com/gristlabs"
         }
       ],
       "description": "Display locations on a map using either addresses or latitude and longitude coordinates.",

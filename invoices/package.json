@@ -14,7 +14,7 @@
       {
         "name": "Grist Labs",
         "email": "support@getgrist.com",
-        "url": "https://www.getgrist.com/"
+        "url": "https://github.com/gristlabs"
       }
     ],
     "description": "Generate printable invoices, with values filled in from the selected record.",

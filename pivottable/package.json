@@ -12,7 +12,8 @@
     "renderAfterReady": true,
     "authors": [
       {
-        "name": "jperon"
+        "name": "jperon",
+        "url": "https://github.com/jperon"
       }
     ],
     "description": "Build and modify a pivot table from a selected Grist table."
