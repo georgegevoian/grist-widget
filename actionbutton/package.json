@@ -17,7 +17,6 @@
         "url": "https://github.com/gristlabs"
       }
     ],
-    "description": "Build one or more buttons that send customizable actions (e.g. \"AddRecord\") to the Grist data engine.",
     "isGristLabsMaintained": true
   }
 }
